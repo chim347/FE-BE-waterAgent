@@ -1,6 +1,6 @@
-# Welocme to Math-Utility Repository
+# Welocme to Water-Agent project Repository
 
-### You will find in this repo a water-agent-BE-FE with the following features included:
+### You will find in this repo a SpringBoot-BE-FE with the following features included:
 
 * 
 * 
