@@ -18,9 +18,8 @@
     <dependencies>
         <dependency>
             <groupId>kh.com.wa</groupId>
-            <artifactId>water-agent-data-jpa</artifactId>
+            <artifactId>water-agent-application</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>
-
 </project>
